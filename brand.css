@@ -1,0 +1,87 @@
+.brand .brand-img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 90px 0;
+    img {
+        width: 200px;
+
+    }
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+}
+.big-img img {
+    width: 637px;
+   
+}
+.small-img {
+    display: flex;
+}
+.small-img div img {
+width: 312px;
+}
+.foll{
+    text-align: center;
+    font-size: 220%;
+   padding: 20px;
+}
+.filo {
+    display: flex;
+    gap: 500px;
+}
+.filo-container img {
+width: 312px;
+height: 400px;
+}
+
+.filo-container {
+    display: flex;
+    gap: 35px;
+    margin: 10px;
+    
+}
+.fill{
+    display: flex;
+    gap: 250px;
+    
+}
+.pot{
+    color: rgb(129, 129, 120);
+    
+}
+.fil{
+    display: flex;
+    gap: 200px;
+    
+}
+.crst-center {
+    padding: 80px;
+   height: 21px;
+}
+.reto {
+ display: flex;
+ left: 70px;
+}
+.retoo {
+    background-color: black;
+    color: aliceblue;
+    height: 33px;
+  padding: 10px;
+  
+
+}
+.tnt {
+    color: black;
+    border-color: aliceblue;
+}
+.ttnt {
+    border-color: aliceblue;
+    color: brown;
+}
+
