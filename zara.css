@@ -1,0 +1,35 @@
+.zara {
+    background-image: url(images/zara.png);
+    background-size: cover;
+    background-position: center;
+    height: 776px;
+    color: white;
+}
+ 
+.zara-text {
+    width: 504px;
+    margin-bottom: 55px;
+    margin-right: 333px;
+    margin-left: auto;
+
+    h2 {
+        padding-top: 233px;
+        font-size: 54px;
+        margin-bottom: 55px;
+        font-family: "Roboto", sans-serif;
+    }
+    p {
+        line-height: 40px;
+        text-transform: capitalize;
+        font-size: 26px;
+        font-family: "Roboto", sans-serif;
+        font-weight: 300;
+        margin-bottom: 55px;
+    }
+    button {
+        font-family: "Roboto", sans-serif;
+        padding: 19px 26px;
+        border: none;
+        font-size: 29px;
+    }
+}

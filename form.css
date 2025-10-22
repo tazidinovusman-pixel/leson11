@@ -1,0 +1,26 @@
+.form {
+    padding: 100px 0;
+}
+
+.form .container h2 {
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 50px;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    text-transform: capitalize;
+}
+
+.f-body input {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+    padding: 10px 16px;
+    cursor: pointer;
+}
+
+.f-body input[type="email"] {
+    width: 643px;
+    margin-right: 26px;
+}
